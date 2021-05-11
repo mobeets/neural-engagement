@@ -1,4 +1,4 @@
-Code for analyses and figures for paper "Learning is shaped by abrupt changes in neural engagement"
+Code for analyses and figures for paper ["Learning is shaped by abrupt changes in neural engagement"](https://www.nature.com/articles/s41593-021-00822-8) by Hennig et al. (2021)
 
 ## Requirements
 
