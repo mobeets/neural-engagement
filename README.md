@@ -17,6 +17,4 @@ This codepack includes data from two example sessions (20120528 from monkey J, a
 
 The above code takes around 20 seconds to run on a Macbook Pro.
 
-## Instructions for use
-
 © Jay Hennig, 2020
